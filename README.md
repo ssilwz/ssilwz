@@ -1,10 +1,10 @@
 - 👋 oi, meu nome é victoria
-- 👀 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👀 eu gosto de ouvir musica e dormir
+- 🌱 Matematica 
+- 💞️ em estudar mais 
+- 📫 me procurando
+- 😄 Pronouns: ela/dela
+- ⚡ Fun fact▶️
 
 <!---
 ssilwz/ssilwz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
